@@ -1,0 +1,6 @@
+Code run by **Belinda Wong-Swanson**
+Environment variable UWHPSC is /Users/belindaswanson/Coursera/HighPerformSciComputing/uwhpsc
+Environment variable MYHPSC is /Users/belindaswanson/Coursera/HighPerformSciComputing/githubRepo/CourseraHPSC
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
